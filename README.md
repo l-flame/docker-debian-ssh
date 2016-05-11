@@ -1,8 +1,8 @@
-### Docker debian image with ssh
+# Docker debian image with ssh
 Very simple image for testing ansible playbooks.
 
 Default password: "docker.io" (without quotes)
 
 ---
-#### Building
+## Building
 docker build -t debian-ssh .
